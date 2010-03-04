@@ -1,0 +1,12 @@
+#summary A list of sources we used when implementing this project.
+
+= Introduction =
+
+We used a number of different academic papers, articles, etc, while implementing this project. We list these here to give credit.
+
+
+= Details =
+
+For the most part, we used Wikipedia's <a href="http://en.wikipedia.org/wiki/Paillier_cryptosystem">Paillier_cryptosystem</a> and a Masters Thesis by Kevin Henry of the University of Waterloo titled "The Theory and Applications of Homomorphic Cryptography" in implementing the Paillier package.
+
+The rerandomize function in the Paillier EncryptedInteger class came from "Strong Conditional Oblivious Transfer and Computing on Intervals" by Ian F. Blake and Vladimir Kolesnikov, both from the University of Toronto.
