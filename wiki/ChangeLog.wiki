@@ -1,0 +1,10 @@
+#summary A log of the changes between releases
+
+= Introduction =
+Below we have kept a list of changes between releases.
+
+== thep-0.1 (5/21/2010)==
+Initial release of thep. Includes:
+  * Encrypted integers and polynomials
+  * Key generation using a secure random number generator
+  * The GTSCOT protocol (see [ImplementationCredit] for more information)
