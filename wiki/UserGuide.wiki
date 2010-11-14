@@ -14,4 +14,4 @@ You'll notice that we said the homomorphic operation "add" when we called _a.add
 
 This is the same for the _multiply(BigInteger other)_ and _add(BigInteger other)_ functions. The code doesn't actually perform a multiply (or add) on the ciphertext, but the result is as if you had multiplied (or added) the ciphertext with the constant value _other_.
 
-As a developer you just have to think in terms of what operation you want to perform on the plaintext value(s) and call the appropriate function.
+As a developer you just have to think in terms of what operation you want to perform on the plaintext value(s) and call the appropriate function. That frees you from having to understand the underlying crypto system.
