@@ -2,7 +2,7 @@
 
 = Introduction =
 
-thep can handle negative number (adding two encrypted negatives, multiplying by a negative number, etc). This includes cases where the result is also negative. There are a few subtleties though, below I describe them. In the java/src/test/thep/paillier/EncryptedIntegerTest.java source file, there are a few examples that use negative numbers. 
+thep can handle negative number (adding two encrypted negatives, multiplying by a negative number, etc). This includes cases where the result is also negative. There are a few subtleties though, below I describe them. In the [http://code.google.com/p/thep/source/browse/trunk/java/src/test/thep/paillier/EncryptedIntegerTest.java java/src/test/thep/paillier/EncryptedIntegerTest.java] source file, there are a few examples that use negative numbers. 
 
 
 = Details =
