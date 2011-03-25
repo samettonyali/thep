@@ -3,6 +3,10 @@
 = Introduction =
 Below we have kept a list of changes between releases.
 
+== thep-0.1.1 (3/25/2011)==
+Bug fix
+  * Fixed bug where SecureRandom rng was not initialized in copy constructor
+
 == thep-0.1 (5/21/2010)==
 Initial release of thep. Includes:
   * Encrypted integers and polynomials
