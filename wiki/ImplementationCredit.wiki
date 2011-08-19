@@ -9,7 +9,7 @@ We used a number of different academic papers, articles, etc, while implementing
 
 For the most part, we used Wikipedia's [http://en.wikipedia.org/wiki/Paillier_cryptosystem Paillier_cryptosystem] and a Masters Thesis by Kevin Henry of the University of Waterloo titled [http://uwspace.uwaterloo.ca/bitstream/10012/3901/1/uw-ethesis.pdf The Theory and Applications of Homomorphic Cryptography] in implementing the Paillier package and the EncryptedInteger class.
 
-The rerandomize function in the Paillier EncryptedInteger class came from "Strong Conditional Oblivious Transfer and Computing on Intervals" by Ian F. Blake and Vladimir Kolesnikov, both from the University of Toronto.
+The rerandomize function in the Paillier EncryptedInteger class came from [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.59.9123&rep=rep1&type=pdf Strong Conditional Oblivious Transfer and Computing on Intervals] by Ian F. Blake and Vladimir Kolesnikov, both from the University of Toronto.
 
 The GT-SCOT protocol comes from [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.59.9123&rep=rep1&type=pdf Strong Conditional Oblivious Transfer and Computing on Intervals] by Blake and Kolesnikov of the University of Toronto.
 
